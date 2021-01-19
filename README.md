@@ -1,2 +1,3 @@
 # qtcreator_note
-学习qtcreator设计理念，阅读qtcreator源代码后留下的注释版
+qtcreator源码注释版
+学习qt程序框架设计的最好例子
